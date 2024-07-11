@@ -1,0 +1,7 @@
+
+out/
+.idea
+*.iml
+
+!**/src/main/**/out/
+!**/src/ArraysPart1/**/out/
